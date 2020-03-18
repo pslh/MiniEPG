@@ -83,8 +83,8 @@ fi
 
 if [ $DO_RYT -eq 1 ]
 then
-    epg_url_0=http://www.xmltvepg.nl/rytecIT_Basic.xz
-#    epg_url_0=http://www.vuplus-community.net/rytec/rytecIT_Basic.xz
+#    epg_url_0=http://www.xmltvepg.nl/rytecIT_Basic.xz
+    epg_url_0=http://www.vuplus-community.net/rytec/rytecIT_Basic.xz
 #    epg_url_0=http://rytecepg.ipservers.eu/epg_data/rytecIT_Basic.xz
 
     echo "!!! Downloading $epg_url_0"
